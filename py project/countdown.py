@@ -50,8 +50,3 @@ while True:
 	if '{hour}' == '00':
 		print(logohpny)
 		exit()
-
-
-	
-	
-	
